@@ -1,0 +1,18 @@
+<?php
+if (isset($_POST['$name'])) {$name = $_POST['$name'];}
+if (isset($_POST['$email'])) {$email = $_POST['$email'];}
+if (isset($_POST['$phone'])) {$phone = $_POST['$phone'];}
+ 
+$address = 'olya.boyarkina.2015@mail.ru';
+$sub = "Заказ с сайта okna.ru";
+$mes = "Имя: $name \nУказал свой адрес: $email \n Номер телефона: $phone";
+$verify = mail ($address,$sub,$mes,"Content-type:text/plain; charset = windows-1251\r\nFrom:$email");
+if ($verify == 'true')
+{
+echo "<p>Сообщение отправлено";
+}
+else 
+{
+echo "<p>Сообщение не отправлено";
+}
+?>

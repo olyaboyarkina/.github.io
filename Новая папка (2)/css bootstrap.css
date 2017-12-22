@@ -1,0 +1,183 @@
+.col-lg-12{border:1px solid black;}
+.w1{border:1px solid black;
+padding:10px;
+font-size:25px;}
+.w6{
+border:1px solid black;
+padding:7px;
+}
+.thumb img  {
+    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    margin-top: 10px; /* Отступ справа */
+    margin-bottom: 2px; /* Отступ снизу */
+	margin-left: 10px; /* Отступ снизу */
+	width:200px;
+	height:200px;
+   }
+   .left, .right {
+    float: left; /* Обтекание справа */ 
+    width: 500px; /* Ширина текстового блока */ 
+   }
+   .right {
+    text-align: right;} /* Выравнивание по правому краю */ 
+.left{
+font-size:25pt;
+font-family:Arial;}	
+
+.r1 {
+    display:inline-block;   
+    position:relative;
+ border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    margin-top: 10px; /* Отступ справа */
+    margin-bottom: 2px; /* Отступ снизу */
+	margin-left: 10px; /* Отступ снизу */
+	width:200px;
+	height:200px;
+}
+.r1 span {
+    display:inline-block;
+    position:absolute;
+    top:10px;   
+    right:0px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+     
+    /* Фон */
+    background-color:rgba(0,0,0,.4);
+    padding:10px 30px;
+}
+.r2 {
+    display:inline-block;   
+    position:relative;
+ border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    margin-top: 10px; /* Отступ справа */
+    margin-bottom: 2px; /* Отступ снизу */
+	margin-left: 10px; /* Отступ снизу */
+	width:200px;
+	height:200px;
+}
+.r2 span {
+    display:inline-block;
+    position:absolute;
+    top:10px;   
+    right:0px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+     
+    /* Фон */
+    background-color:rgba(0,0,0,.4);
+    padding:10px 30px;
+}
+.r3 {
+    display:inline-block;   
+    position:relative;
+ border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    margin-top: 10px; /* Отступ справа */
+    margin-bottom: 2px; /* Отступ снизу */
+	margin-left: 10px; /* Отступ снизу */
+	width:200px;
+	height:200px;
+}
+.r3 span {
+    display:inline-block;
+    position:absolute;
+    top:10px;   
+    right:0px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+     
+    /* Фон */
+    background-color:rgba(0,0,0,.4);
+    padding:10px 30px;
+}
+.r4 {
+    display:inline-block;   
+    position:relative;
+ border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    margin-top: 10px; /* Отступ справа */
+    margin-bottom: 2px; /* Отступ снизу */
+	margin-left: 10px; /* Отступ снизу */
+	width:200px;
+	height:200px;
+}
+.r4 span {
+    display:inline-block;
+    position:absolute;
+    top:10px;   
+    right:0px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+     
+    /* Фон */
+    background-color:rgba(0,0,0,.4);
+    padding:10px 30px;
+}
+.r5 {
+    display:inline-block;   
+    position:relative;
+ border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    margin-top: 10px; /* Отступ справа */
+    margin-bottom: 2px; /* Отступ снизу */
+	margin-left: 10px; /* Отступ снизу */
+	width:200px;
+	height:200px;
+}
+.r5 span {
+    display:inline-block;
+    position:absolute;
+    top:10px;   
+    right:0px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+     
+    /* Фон */
+    background-color:rgba(0,0,0,.4);
+    padding:10px 30px;
+}
+.r6{
+    display:inline-block;   
+    position:relative;
+ border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    margin-top: 10px; /* Отступ справа */
+    margin-bottom: 2px; /* Отступ снизу */
+	margin-left: 10px; /* Отступ снизу */
+	width:200px;
+	height:200px;
+}
+.r6 span {
+    display:inline-block;
+    position:absolute;
+    top:10px;   
+    right:0px;
+     
+    /* Оформление текста */
+    color:#FFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px; 
+     
+    /* Фон */
+    background-color:rgba(0,0,0,.4);
+    padding:10px 30px;
+}
